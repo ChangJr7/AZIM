@@ -35,52 +35,30 @@ ____Programming And Memes____
       FACEBOOK ACCOUNT CLONER
 </p>
   
-#### INSTAL ALAT DI TERMUX
+#### INSTALL TOOL ON TERMUX
 ```python
-termux-setup-storage
-pkg update && pkg upgrade
-pkg install python git
-pkg install python3
-pkg install python
-pkg install python2 
-pkg install play-audio
-pkg install nano
-pkg install git
-
-pip install cython
-pip install --upgrade pip
-pip install rich bs4
-pip install requests
-pip install requests bs4 futures
-pip install requests bs4 && pip install bs4
-pip install requests && pip install mechanize
-
-apt update 
-apt upgrade
-pkg install git -y
-apt install lolcat
-pkg install python -y
-apt install python2
-pkg install npm
-pip install requests
-pip install mechanize
-pip install requests mechanize
-pip install rich
-pip install bs4
-pip install BeautifulSoup
+$ apt update && apt upgrade
+$ apt install python
+$ pip install mechanize lolcat
+$ pip install requests bs4
+$ pip install futures
+$ apt install git
+$ git clone https://github.com/Scatterz/Azim
 ```
-#### JALANKAN SKRIP
+#### RUN SCRIPT
 ```python
-rm -rf Scatterz
-git clone https://github.com/Scatterz/Scatterz
-ls
-cd Scatterz
-git pull
-python sun.py
+git clone https://github.com/Scatterz/Azim
+cd Azim
 python run.py
 python son.py
 ```
 
+
+#### MY SOCIAL MEDIA
+
+[![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=red&labelColor=black)](https://github.com/Azim-Vau) <br>
+[![](https://img.shields.io/badge/Facebook-black?logo=Facebook&logoColor=red&labelColor=black)](https://www.facebook.com/Azimvau69) <br>
+[![](https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=red&labelColor=black)](https://www.instagram.com/azimmahmud143) <br>
 
 
 <h2> THANKS FOR VISIT ✘✘ <h2\>
